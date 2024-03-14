@@ -1,7 +1,7 @@
 package actividad2_figurasgeometricas;
 
 public class Rectangulo {
-    double base, altura; //Base y altura del rectangulo en centímetros
+    double base, altura; //Base y altura del rectángulo en centímetros
     
     protected double calcularArea(){
         return base * altura;
